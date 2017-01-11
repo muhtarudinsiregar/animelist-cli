@@ -1,0 +1,32 @@
+{
+  "name": "animelist-cli",
+  "version": "0.0.1",
+  "description": "animelist in your cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhtarudinsiregar/animelist-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "starterkit",
+    "crawling"
+  ],
+  "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhtarudinsiregar/animelist-cli/issues"
+  },
+  "homepage": "https://github.com/muhtarudinsiregar/animelist
+  -cli#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
