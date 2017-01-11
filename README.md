@@ -1,1 +1,1 @@
-# cli-cli
+# animelist-cli
