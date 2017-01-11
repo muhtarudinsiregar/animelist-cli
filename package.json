@@ -11,9 +11,9 @@
     "url": "git+https://github.com/muhtarudinsiregar/animelist-cli.git"
   },
   "keywords": [
+    "anime",
     "cli",
-    "starterkit",
-    "crawling"
+    "myanimelist"
   ],
   "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
   "license": "ISC",
